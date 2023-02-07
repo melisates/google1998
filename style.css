@@ -1,0 +1,36 @@
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.position{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    background-color: beige;
+    text-align: center;
+    
+}
+
+.cont2{
+   
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        width: 100%;
+    
+}
+.cont2>div {
+    width: 30%;
+    margin: 1px;
+    background-color: #70CCC2;
+}
+
+.copy{
+    text-align: center;
+}
